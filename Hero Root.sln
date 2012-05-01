@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hero Root", "Hero Root\Hero Root.csproj", "{48663AF8-73CB-4910-86C1-1B3BBEF0DFC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48663AF8-73CB-4910-86C1-1B3BBEF0DFC9}.Debug|x64.ActiveCfg = Debug|x64
+		{48663AF8-73CB-4910-86C1-1B3BBEF0DFC9}.Debug|x64.Build.0 = Debug|x64
+		{48663AF8-73CB-4910-86C1-1B3BBEF0DFC9}.Debug|x86.ActiveCfg = Debug|x86
+		{48663AF8-73CB-4910-86C1-1B3BBEF0DFC9}.Debug|x86.Build.0 = Debug|x86
+		{48663AF8-73CB-4910-86C1-1B3BBEF0DFC9}.Release|x64.ActiveCfg = Release|x64
+		{48663AF8-73CB-4910-86C1-1B3BBEF0DFC9}.Release|x64.Build.0 = Release|x64
+		{48663AF8-73CB-4910-86C1-1B3BBEF0DFC9}.Release|x86.ActiveCfg = Release|x86
+		{48663AF8-73CB-4910-86C1-1B3BBEF0DFC9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
